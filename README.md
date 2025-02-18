@@ -1,2 +1,2 @@
-# modular-web-app
-Building a micro frontend architecture where different parts of the application are independently deployable, scalable, and maintainable, with a shared set of common components following atomic design principles. Also containerizing the application using Docker and setting up CI/CD pipelines via GitHub Actions.
+# auto-sage-app
+AI-driven workflow automation product is designed to streamline and enhance business processes through intelligent automation, leveraging the power of artificial intelligence to optimize task management, decision-making, and resource allocation. The product focuses on reducing manual intervention, improving efficiency, and increasing accuracy by automating routine workflows.
